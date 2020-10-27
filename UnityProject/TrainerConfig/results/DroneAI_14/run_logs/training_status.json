@@ -1,0 +1,38 @@
+{
+    "difficulty_level": {
+        "lesson_num": 2
+    },
+    "Drone": {
+        "checkpoints": [
+            {
+                "steps": 499950,
+                "file_path": "results\\DroneAI_14\\Drone\\Drone-499950.nn",
+                "reward": 0.9987857093768461,
+                "creation_time": 1602664890.6718085
+            },
+            {
+                "steps": 999946,
+                "file_path": "results\\DroneAI_14\\Drone\\Drone-999946.nn",
+                "reward": null,
+                "creation_time": 1602665392.1093237
+            },
+            {
+                "steps": 1256883,
+                "file_path": "results\\DroneAI_14\\Drone\\Drone-1256883.nn",
+                "reward": 1.6723669772186587,
+                "creation_time": 1602665653.1876044
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1256883,
+            "file_path": "results\\DroneAI_14\\Drone.nn",
+            "reward": 1.6723669772186587,
+            "creation_time": 1602665653.1876044
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

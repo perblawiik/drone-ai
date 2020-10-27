@@ -1,0 +1,50 @@
+{
+    "difficulty_level": {
+        "lesson_num": 2
+    },
+    "Drone": {
+        "checkpoints": [
+            {
+                "steps": 13499917,
+                "file_path": "results\\DroneAI_13\\Drone\\Drone-13499917.nn",
+                "reward": 1.8080625217407942,
+                "creation_time": 1602595259.5156524
+            },
+            {
+                "steps": 13999962,
+                "file_path": "results\\DroneAI_13\\Drone\\Drone-13999962.nn",
+                "reward": 1.7950769597903276,
+                "creation_time": 1602595610.2530448
+            },
+            {
+                "steps": 14499998,
+                "file_path": "results\\DroneAI_13\\Drone\\Drone-14499998.nn",
+                "reward": 1.230645847817262,
+                "creation_time": 1602595962.1601877
+            },
+            {
+                "steps": 14999961,
+                "file_path": "results\\DroneAI_13\\Drone\\Drone-14999961.nn",
+                "reward": 1.8145384770500792,
+                "creation_time": 1602596312.7961316
+            },
+            {
+                "steps": 15000502,
+                "file_path": "results\\DroneAI_13\\Drone\\Drone-15000502.nn",
+                "reward": 1.8153333497854571,
+                "creation_time": 1602596313.110177
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15000502,
+            "file_path": "results\\DroneAI_13\\Drone.nn",
+            "reward": 1.8153333497854571,
+            "creation_time": 1602596313.110177
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

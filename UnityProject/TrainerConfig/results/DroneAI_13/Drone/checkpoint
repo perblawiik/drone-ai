@@ -1,0 +1,6 @@
+model_checkpoint_path: "Drone-15000502.ckpt"
+all_model_checkpoint_paths: "Drone-13499917.ckpt"
+all_model_checkpoint_paths: "Drone-13999962.ckpt"
+all_model_checkpoint_paths: "Drone-14499998.ckpt"
+all_model_checkpoint_paths: "Drone-14999961.ckpt"
+all_model_checkpoint_paths: "Drone-15000502.ckpt"
